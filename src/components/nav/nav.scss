@@ -1,0 +1,12 @@
+nav {
+  background: rgb(62, 216, 255);
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+  }
+}

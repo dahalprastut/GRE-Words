@@ -1,0 +1,141 @@
+p {
+  margin: 0;
+}
+.d-flex {
+  display: flex;
+}
+
+.f-wrap {
+  flex-wrap: wrap;
+}
+
+.jc-start {
+  justify-content: flex-start;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.jc-between {
+  justify-content: space-between;
+}
+
+.jc-end {
+  justify-content: flex-end;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.ai-start {
+  align-items: flex-start;
+}
+
+.ai-end {
+  align-items: flex-end;
+}
+
+.ai-center {
+  align-items: center;
+}
+
+.center {
+  max-width: 1120px;
+  margin: auto;
+}
+
+html {
+  font-size: 67.5%;
+}
+
+body {
+  margin: 0;
+  font-size: 1.6rem;
+  font-family: arial;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.w-40 {
+  width: 40px;
+}
+
+.w-60 {
+  width: 60px;
+}
+
+.h-40 {
+  height: 40px;
+  line-height: 40px;
+}
+
+.p-1 {
+  padding: 10px;
+}
+
+.p-2 {
+  padding: 20px;
+}
+.p-1-0 {
+  padding: 10px 0;
+}
+
+.p-2-0 {
+  padding: 20px 0;
+}
+
+.p-0-1 {
+  padding: 0 10px;
+}
+
+.p-0-2 {
+  padding: 0 20px;
+}
+.m-1 {
+  margin: 10px;
+}
+
+.m-2 {
+  margin: 20px;
+}
+.m-1-0 {
+  margin: 10px 0;
+}
+
+.m-2-0 {
+  margin: 20px 0;
+}
+
+.m-0-1 {
+  margin: 0 10px;
+}
+
+.m-0-2 {
+  margin: 0 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 20px;
+  display: block;
+  &:disabled {
+    cursor: default;
+  }
+}
+
+.main {
+  height: 87.2vh;
+}
+
+footer {
+  background: rgb(62, 216, 255);
+}
