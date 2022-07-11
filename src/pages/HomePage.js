@@ -5,7 +5,7 @@ const cards = [
   {
     name: "All",
     route: "/all",
-    idx: 2,
+    idx: 1,
   },
   {
     name: "Group 1",
@@ -18,24 +18,23 @@ const cards = [
     idx: 3,
   },
   {
+    name: "Group 3",
+    route: "/group-3",
+    idx: 4,
+  },
+  {
     name: "Hard Meanings",
     route: "/hard-meanings",
-    idx: 4,
+    idx: 5,
   },
 ];
 
 export default function HomePage() {
   return (
-    <div className="main">
-      <div className="center d-flex f-wrap">
-        {cards.map(data => {
-          return (
-            <Card
-              name={data.name}
-              link={data.route}
-              key={data.idx}
-            />
-          );
+    <div className='main'>
+      <div className='center d-flex f-wrap'>
+        {cards.map((data) => {
+          return <Card name={data.name} link={data.route} key={data.idx} />;
         })}
       </div>
     </div>
