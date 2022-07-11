@@ -44,6 +44,7 @@ p {
 .center {
   max-width: 1120px;
   margin: auto;
+  padding: 0 2rem;
 }
 
 html {
@@ -133,7 +134,7 @@ button {
 }
 
 .main {
-  height: 87.2vh;
+  min-height: 87.2vh;
 }
 
 footer {

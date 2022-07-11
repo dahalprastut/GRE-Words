@@ -24,7 +24,7 @@ const cards = [
   },
   {
     name: "Hard Meanings",
-    route: "/hard-meanings",
+    route: "/hard-questions",
     idx: 5,
   },
 ];

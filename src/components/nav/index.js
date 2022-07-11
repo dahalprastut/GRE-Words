@@ -5,15 +5,15 @@ import "./nav.scss";
 export default function Nav() {
   return (
     <nav>
-      <div className="center">
-        <div className="d-flex jc-end">
-          <Link to="/" className="p-0-10 h-40">
+      <div className='center'>
+        <div className='d-flex jc-end'>
+          <Link to='/' className='p-0-10 h-40 m-0-2'>
             Dashboard
           </Link>
-          <Link
-            to="/hard-questions"
-            className="p-0-10 h-40 m-0-2"
-          >
+          <Link to='/alphabet/a' className='p-0-10 h-40 m-0-2'>
+            Alphabet
+          </Link>
+          <Link to='/hard-questions' className='p-0-10 h-40 m-0-2'>
             Hard Meanings
           </Link>
         </div>
