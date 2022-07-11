@@ -2456,6 +2456,705 @@ const words = [
       syn: [""],
       group: 2,
     },
+    {
+      id:195,
+      name:"dissent",
+      meaning:["disapprovement"],
+      example:["He expressed his dissent in a contrary opinion"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:196,
+      name:"accord",
+      meaning:["to provide"],
+      example:["He was accorded power"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:197,
+      name:"whet",
+      meaning:["sharpen"],
+      example:["To whet your appetite","To whet cutting tools"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:198,
+      name:"accrue",
+      meaning:["to increase gradually"],
+      example:["My knowledge accrued"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:199,
+      name:"rue",
+      meaning:["regret"],
+      example:["I am rueing my decision"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:200,
+      name:"hone",
+      meaning:["sharp"],
+      example:["you should hone your mind"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:201,
+      name:"extrapolate",
+      meaning:["To make a projection (generalize)"],
+      example:["I can extrapolate from minimum info"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:202,
+      name:"nonpulssed",
+      meaning:["Puzzled"],
+      example:[""],
+      difficulty:"easy",
+      syn:["Baffled","Bewildered","Bemuse","Perplex"],
+      group:3
+  },
+  {
+      id:203,
+      name:"Baffled",
+      meaning:["Puzzled"],
+      example:[""],
+      difficulty:"easy",
+      syn:["Nonpulssed","Bewildered","Bemuse","Perplex"],
+      group:3
+  },
+  {
+      id:204,
+      name:"Bewildered",
+      meaning:["Puzzled"],
+      example:[""],
+      difficulty:"easy",
+      syn:["Baffled","Nonpulssed","Bemuse","Perplex"],
+      group:3
+  },
+  {
+      id:205,
+      name:"Bemuse",
+      meaning:["Puzzled"],
+      example:[""],
+      difficulty:"easy",
+      syn:["Baffled","Nonpulssed","Nonpulssed","Perplex"],
+      group:3
+  },
+  {
+      id:206,
+      name:"Perplex",
+      meaning:["Puzzled"],
+      example:[""],
+      difficulty:"easy",
+      syn:["Baffled","Nonpulssed","Bemuse","Nonpulssed"],
+      group:3
+  },
+  {
+      id:207,
+      name:"Draconian",
+      meaning:["Very harsh"],
+      example:["Draconian treatment to the servants"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:208,
+      name:"give treth",
+      meaning:["to make powerful or effective"],
+      example:[],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:209,
+      name:"innuendo",
+      meaning:["An oblique remark that indicates something disparaging"],
+      example:[""],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:210,
+      name:"render moot",
+      meaning:["to make something debatable"],
+      example:["The issue was rendered moot by the Supreme Court"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:211,
+      name:"Arresting",
+      meaning:["Having the authority to arrest somebody"],
+      example:["Arresting police officer"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:212,
+      name:"Arrest",
+      meaning:["To stop or prevent (flow of something)"],
+      example:["To arrest bleeding"],
+      difficulty:"easy",
+      syn:["stim","check"],
+      group:3
+  },
+  {
+      id:213,
+      name:"Stim",
+      meaning:["To stop or prevent (flow of something)"],
+      example:["To arrest bleeding"],
+      difficulty:"easy",
+      syn:["Arrest","check"],
+      group:3
+  },
+  {
+      id:214,
+      name:"Check",
+      meaning:["To stop or prevent (flow of something)"],
+      example:["To check and balance"],
+      difficulty:"easy",
+      syn:["stim","arrest"],
+      group:3
+  },
+  {
+      id:215,
+      name:"To Arrest your attention",
+      meaning:["To draw your attention"],
+      example:[""],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:216,
+      name:"To Arrest your attention",
+      meaning:["To draw your attention"],
+      example:[""],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:217,
+      name:"arrant",
+      meaning:["of the worst kind"],
+      example:["The arrant fool"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:218,
+      name:"spleen",
+      meaning:["Bad temper or anger"],
+      example:[""],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:219,
+      name:"To vent your spleen",
+      meaning:["To express your anger"],
+      example:[""],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:220,
+      name:"Vent",
+      meaning:["To express","outlet"],
+      example:["Why do you always vent your anger on others?"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:221,
+      name:"Splentic",
+      meaning:["bad tempered or angry"],
+      example:["splenetic rant"],
+      difficulty:"easy",
+      syn:[""],
+      group:3
+  },
+  {
+      id:222,
+      name:"edible",
+      meaning:["safe to eat"],
+      example:["not all mushrooms are edible"],
+      difficulty:"easy",
+      syn:["esculent","comestibles"],
+      group:3
+  },
+  {
+      id:223,
+      name:"comestibles",
+      meaning:["safe to eat"],
+      example:["Joe likes to masticate his comestibles."],
+      difficulty:"easy",
+      syn:["esculent","edible"],
+      group:3
+  },
+  {
+      id:224,
+      name:"edacious",
+      meaning:["relating to eating"],
+      example:["Edacious pleasure."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:225,
+      name:"edacious appetite",
+      meaning:["very strong appetite"],
+      example:["A person with edacious appetite."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:226,
+      name:"gustatory",
+      meaning:["relating to the sense of taste"],
+      example:["Gustatory pleasure."],
+      difficulty:"easy",
+      syn:["esculent","edible"],
+      group:3
+  },
+  {
+      id:227,
+      name:"olfactory",
+      meaning:["relating to the sense of smell"],
+      example:["olfactory nerveslorgan"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:228,
+      name:"tactie",
+      meaning:["relating to the sense of touch"],
+      example:["Tactile exhibitions help blind people enjoy the magic."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:229,
+      name:"gusty",
+      meaning:["windy"],
+      example:["gusty weather."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:230,
+      name:"stew",
+      meaning:["meat, fish or vegetable that is cooked in liquid"],
+      example:[],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:231,
+      name:"gust",
+      meaning:["forceful and irregular part of wind"],
+      example:[""],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:232,
+      name:"gusto",
+      meaning:["cheerfulness and enthusiasm"],
+      example:["she is dancing with gusto."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:233,
+      name:"gastronomy",
+      meaning:["science of cooking & serving"],
+      example:["This loser failed his gastronomy major."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:234,
+      name:"potable",
+      meaning:["safe to drink"],
+      example:["potable water."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:235,
+      name:"potion",
+      meaning:["drink","liquid dose (of medicine/magic/poison)"],
+      example:["Joe likes to masticate his comestibles."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:236,
+      name:"comely",
+      meaning:["pleasant to look at; attractive (typically used of a woman)."],
+      example:["Prastut prefers comely lass."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:237,
+      name:"decorous",
+      meaning:["good or proper."],
+      example:["decorous manner"],
+      difficulty:"easy",
+      syn:["seemly"],
+      group:3
+  },
+  {
+      id:238,
+      name:"seemly",
+      meaning:["good or proper."],
+      example:["seemly manner"],
+      difficulty:"easy",
+      syn:["decorous"],
+      "ant":["unseemly","indecorous"],
+      group:3
+  },
+  {
+      id:239,
+      name:"decorous",
+      meaning:["good or proper."],
+      example:["decorous manner"],
+      difficulty:"easy",
+      syn:["seemly"],
+      "ant":["unseemly","indecorous"],
+      group:3
+  },
+  {
+      id:240,
+      name:"decorum",
+      meaning:["good manner"],
+      example:["I appreciate your decorum"],
+      difficulty:"easy",
+      syn:["propreity"],
+      "ant":["Impropreity"],
+      group:3
+  },
+  {
+      id:241,
+      name:"propreity",
+      meaning:["good manner"],
+      example:["I appreciate your decorum"],
+      difficulty:"easy",
+      syn:["decorum"],
+      "ant":["Impropreity"],
+      group:3
+  },
+  {
+      id:242,
+      name:"decorum",
+      meaning:["good manner"],
+      example:["I appreciate your decorum"],
+      difficulty:"easy",
+      syn:["propreity"],
+      "ant":["Impropreity(bad manner)"],
+      group:3
+  },
+  {
+      id:243,
+      name:"meddlesome",
+      meaning:["officious(of interfering mature)"],
+      example:[],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:244,
+      name:"meddle",
+      meaning:["interfere"],
+      example:[],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:245,
+      name:"mettle",
+      meaning:["spirit,courage or strength"],
+      example:["this question will fist your mettle"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:246,
+      name:"lackadaisical",
+      meaning:["not showing energy or enthusiasm"],
+      example:["A lackadasical liacher/liaching"],
+      difficulty:"easy",
+      syn:[],
+      "ant":["ebullient"],
+      group:3
+  },
+  {
+      id:247,
+      name:"vivacious",
+      meaning:["very energetic (usually of a woman"],
+      example:["A vivacious actress"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:248,
+      name:"spry",
+      meaning:["vigorously active"],
+      example:["spry teacher"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:249,
+      name:"pry",
+      meaning:["to take interest in other's personal matter unnecessarily"],
+      example:["i dont like prying"],
+      difficulty:"easy",
+      syn:["nosy"],
+      group:3
+  },
+  {
+      id:250,
+      name:"nosy",
+      meaning:["someone who curiously pry into other people's affairs or business."],
+      example:["a nosy classmate"],
+      difficulty:"easy",
+      syn:["pry"],
+      group:3
+  },
+  {
+      id:251,
+      name:"insinate",
+      meaning:["to hint something negative"],
+      example:[""],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:252,
+      name:"spry",
+      meaning:["vigorously active"],
+      example:["spry teacher"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:253,
+      name:"insinuation",
+      meaning:["hint(somehing negative)"],
+      example:[],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:254,
+      name:"sinuous",
+      meaning:["meandering","long & indirect (that is difficult to understand)"],
+      example:["sinuous path","sinuous logic"],
+      difficulty:"easy",
+      syn:["circuitous","Tortuous"],
+      group:3
+  },
+  {
+      id:255,
+      name:"circuitous",
+      meaning:["meandering","long & indirect (that is difficult to understand)"],
+      example:["sinuous path","sinuous logic"],
+      difficulty:"easy",
+      syn:["sinuous","Tortuous"],
+      group:3
+  },
+  {
+      id:256,
+      name:"Tortuous",
+      meaning:["meandering","long & indirect (that is difficult to understand)"],
+      example:["sinuous path","sinuous logic"],
+      difficulty:"easy",
+      syn:["circuitous","Sinuous"],
+      group:3
+  },
+  {
+      id:257,
+      name:"infirm",
+      meaning:["weak", "not strong"],
+      example:["Infirm patient/health"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:258,
+      name:"infirmary",
+      meaning:["sick room or hospital"],
+      example:[],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:259,
+      name:"emblematic",
+      meaning:["symbolic"],
+      example:[],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:260,
+      name:"circle",
+      meaning:["something that moves round & round"],
+      example:[""],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:261,
+      name:"ordeal",
+      meaning:["long and unpleasant experience"],
+      example:["The covid period was an ordeal"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:262,
+      name:"decimate",
+      meaning:["To kill or destroy in large proportion"],
+      example:["Rats were decimated"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:263,
+      name:"lascivious",
+      meaning:["lustful"],
+      example:[""],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:264,
+      name:"potent",
+      meaning:["powerful"],
+      example:["A potent horse"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:265,
+      name:"virile",
+      meaning:["having strong sexual power"],
+      example:["He is virile enough to keep me up all night."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:266,
+      name:"rile",
+      meaning:["to irritate","irk"],
+      example:["He is virile enough to keep me up all night."],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:267,
+      name:"irksome",
+      meaning:["irritating","burdensome"],
+      example:["irksome job/journey"],
+      difficulty:"easy",
+      syn:["onerous"],
+      group:3
+  },
+  {
+      id:268,
+      name:"onerous",
+      meaning:["irritating","burdensome"],
+      example:["onerous job/journey"],
+      difficulty:"easy",
+      syn:["irksome"],
+      group:3
+  },
+  {
+      id:269,
+      name:"onus",
+      meaning:["burden"],
+      example:["I have become an onus to Brandon as I always rile him up"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:270,
+      name:"onus",
+      meaning:["burden"],
+      example:["I have become an onus to Brandon as I always rile him up"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  },
+  {
+      id:271,
+      name:"cumbersome",
+      meaning:["burdensome","long & complicated"],
+      example:["cumbersome job","A cumbersome process"],
+      difficulty:"easy",
+      syn:[],
+      group:3
+  }
   ];
 
   export default words;
